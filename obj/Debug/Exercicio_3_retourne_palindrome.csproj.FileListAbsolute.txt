@@ -1,0 +1,6 @@
+C:\Users\edson\Documents\Visual Studio 2015\Projects\Revenue_Quebec\Exercicio_3_retourne_palindrome\bin\Debug\Exercicio_3_retourne_palindrome.exe.config
+C:\Users\edson\Documents\Visual Studio 2015\Projects\Revenue_Quebec\Exercicio_3_retourne_palindrome\bin\Debug\Exercicio_3_retourne_palindrome.exe
+C:\Users\edson\Documents\Visual Studio 2015\Projects\Revenue_Quebec\Exercicio_3_retourne_palindrome\bin\Debug\Exercicio_3_retourne_palindrome.pdb
+C:\Users\edson\Documents\Visual Studio 2015\Projects\Revenue_Quebec\Exercicio_3_retourne_palindrome\obj\Debug\Exercicio_3_retourne_palindrome.csprojResolveAssemblyReference.cache
+C:\Users\edson\Documents\Visual Studio 2015\Projects\Revenue_Quebec\Exercicio_3_retourne_palindrome\obj\Debug\Exercicio_3_retourne_palindrome.exe
+C:\Users\edson\Documents\Visual Studio 2015\Projects\Revenue_Quebec\Exercicio_3_retourne_palindrome\obj\Debug\Exercicio_3_retourne_palindrome.pdb
